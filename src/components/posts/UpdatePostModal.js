@@ -104,7 +104,7 @@ function UpdatePostModal() {
             >
               <option value="TO LEARN">TO LEARN</option>
               <option value="LEARNING">LEARNING</option>
-              <option value="FINISH">FINISH</option>
+              <option value="FINISH">LEARNED</option>
             </Form.Select>
           </Form.Group>
         </Modal.Body>
